@@ -27,7 +27,7 @@ The variety properties of each data packages such as
 * Service type such as "Normal Internet", "Social", "Streaming", etc.
 * Price
 * Charging type: One time charging, Recurring
-* Package validity (days, months, etc.)
+* Package duration (days, months, etc.)
 <br/><br/>
 
 # Implementation
